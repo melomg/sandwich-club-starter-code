@@ -128,4 +128,6 @@
         </item>
     </string-array>
 
+    <string name="empty_detail">-</string>
+
 </resources>
